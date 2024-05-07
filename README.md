@@ -31,6 +31,10 @@ pages folder for define every pages.
 sections folder for define a componennt related to any route.
 utils folder for global api configurations and global functions that I use in all pages.
 
+# somthing I could't complete
+filter reported bike thefts by date range.(could't find which param I have to send in the API to filter by date)
+
+
 # Contact
 email: Mokhtar.khamam123@gmail.com
 phone: +963949386763
